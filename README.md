@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/VSYPTpC/3011-R1-NUIENBUi-Ay-NTM2-LTI1.jpg" alt="figue image" width="200"/>
+
 # Figue
 
 Ceci est un ensemble de descriptif du projet figue. Un projet qui consiste à créer un réseau social pour geek totalement accessible en ligne de commande.
@@ -33,3 +35,7 @@ L'utilisateur install l'outil de ligne de commande figue via les sources officie
 
 ## Contribution
  Si vous désirez contribuer à ce projet, veuillez m'écrire par mail à l'adresse : nikaboue10@gmail.com.
+
+ ## Source de l'illustration
+
+ <a href="https://fr.vecteezy.com/vecteur-libre/illustration">Illustration Vecteurs par Vecteezy</a>
